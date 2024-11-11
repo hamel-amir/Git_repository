@@ -11,3 +11,6 @@ def concatenation(S1,S2):
 
 def multiplication():
     return -1
+
+def why():
+    return "bonjour"

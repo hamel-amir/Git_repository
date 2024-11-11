@@ -8,3 +8,6 @@ def operaion (a,b):
 
 def concatenation(S1,S2):
     return S1+S2
+
+def multiplication():
+    return -1
